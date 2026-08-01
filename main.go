@@ -44,4 +44,5 @@ func main() {
 
 	fmt.Println(global)
 	variables()
+	arrays()
 }
